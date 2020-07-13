@@ -1,5 +1,8 @@
 # Face-Recognition-OpenCV-and-deep-learning
 
+<img width="500" alt="portfolio_view" src="https://github.com/ashish1sasmal/Face-Recognition-OpenCV-and-deep-learning/blob/master/snape_detect.jpg">
+
+
 ## Tools and Technologies used in this project
 ####   1. dlib
 ####   2. face_recognition

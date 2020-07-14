@@ -34,5 +34,5 @@
 The CNN face recognizer should only be used in real-time if you are working with a GPU 
 (you can use it with a CPU, but expect less than 0.5 FPS which makes for a choppy video). 
 Alternatively (you are using a CPU), you should use the HoG method
-(or even OpenCV Haar cascades covered in a future blog post) and expect adequate speeds. 
+() and expect adequate speeds. 
 
